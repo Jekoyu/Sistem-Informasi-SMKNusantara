@@ -1,0 +1,30 @@
+D:\P\SI SMK\SI SMK\obj\Debug\SI SMK.vbprojAssemblyReference.cache
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.LoginForm.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.Resources.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI SMK.vbproj.GenerateResource.cache
+D:\P\SI SMK\SI SMK\obj\Debug\SI SMK.vbproj.CoreCompileInputs.cache
+D:\P\SI SMK\SI SMK\bin\Debug\SI SMK.exe.config
+D:\P\SI SMK\SI SMK\bin\Debug\SI SMK.exe
+D:\P\SI SMK\SI SMK\bin\Debug\SI SMK.pdb
+D:\P\SI SMK\SI SMK\bin\Debug\SI SMK.xml
+D:\P\SI SMK\SI SMK\obj\Debug\SI SMK.exe
+D:\P\SI SMK\SI SMK\obj\Debug\SI SMK.xml
+D:\P\SI SMK\SI SMK\obj\Debug\SI SMK.pdb
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.StudentForm.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.TeacherForm.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.Adminform.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.AdminHome.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.AdminLogout.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.StudentHome.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.StudentLogout.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.TeacherHome.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.TeacherLogout.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.TeacherProfile.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.TeacherScheduleform.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.AdminManageStudent.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.InfoSubject.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.AdminManageClass.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.AdminManageSchedule.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.AdminManageTeacher.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.STudentSchedule.resources
+D:\P\SI SMK\SI SMK\obj\Debug\SI_SMK.StudentProfile.resources
